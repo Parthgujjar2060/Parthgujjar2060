@@ -17,7 +17,8 @@
 
 - 📫 How to reach me **parthgujjar2003@gmail.com**
 
-- ⚡ Fun fact **I am a Constructure Of Web**
+- ⚡ Fun fact **I am a Constructure Of and tester of web**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
