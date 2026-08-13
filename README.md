@@ -1,4 +1,4 @@
-[![MasterHead](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+Profile)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Parth Vinubhai Gujjar</h1>  
 <h3 align="center">A passionate Full stack Web and App developer from Canada!!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
